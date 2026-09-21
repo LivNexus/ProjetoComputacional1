@@ -1,3 +1,14 @@
 # Projeto Computacional 1
 Repositório organizado para o projeto computacional de programação orientada objeto do curso de ciências da computação, escolhemos criar um sistema de monitoramento para uma assistência de eletrônicos. 
-- Nome: HelpTech
+## HelpTech
+- O HelpTech é o nosso projeto para essa atividade.
+## Organização do repositório:
+  
+```
+Projeto/
+│   ├── CodigoFonte.md            Código Fonte do projeto em python
+│   ├── DiagramaClasses.md        Diagrama de Classes desenvolvido
+│   └── Relatorio.md              Relatório do processo do projeto
+└── docs/
+    └── README.md
+```
