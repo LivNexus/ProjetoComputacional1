@@ -26,10 +26,14 @@ Repositório criado para o projeto computacional da matéria Programação Orien
 <h2> 📍Organização do repositório: </h2>
   
 ```
-Projeto/
-│   ├── CodigoFonte.md            Código Fonte do projeto em python
-│   ├── DiagramaClasses.md        Diagrama de Classes desenvolvido
-│   └── Relatorio.md              Relatório do processo do projeto
+HelpTech/
+│   ├── enums            
+│   ├── models        
+│   └── Relatorio.md              
 └── docs/
-    └── README.md
+    └── main.py
+Projeto_doc/
+└── docs/
+    ├── Diagrama_de_Classes.png       
+    └── Relatorio.md
 ```
