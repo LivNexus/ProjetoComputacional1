@@ -6,10 +6,14 @@ Repositório organizado para o projeto computacional de programação orientada 
 ## Organização do repositório:
   
 ```
-Projeto/
-│   ├── CodigoFonte.md            Código Fonte do projeto em python
-│   ├── DiagramaClasses.md        Diagrama de Classes desenvolvido
-│   └── Relatorio.md              Relatório do processo do projeto
+HelpTech/
+│   ├── enums            
+│   ├── models        
+│   └── Relatorio.md              
 └── docs/
-    └── README.md
+    └── main.py
+Projeto_doc/
+└── docs/
+    ├── Diagrama_de_Classes.png       
+    └── Relatorio.md
 ```
