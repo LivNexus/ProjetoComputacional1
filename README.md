@@ -28,10 +28,10 @@ Repositório criado para o projeto computacional da matéria Programação Orien
 ```
 HelpTech/
 │   ├── enums            
-│   ├── models        
-│   └── Relatorio.md              
+│   └── models                     
 └── docs/
     └── main.py
+
 Projeto_doc/
 └── docs/
     ├── Diagrama_de_Classes.png       
