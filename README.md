@@ -35,5 +35,5 @@ HelpTech/
 Projeto_doc/
 └── docs/
     ├── Diagrama_de_Classes.png       
-    └── Relatorio.md
+    └── Relatorio.pdf
 ```
